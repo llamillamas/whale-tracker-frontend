@@ -28,7 +28,9 @@ Thumbs.db
 # Env
 .env
 .env.local
+.env.development
 .env.production
+.env.*.local
 
 # Vite
 *.local
